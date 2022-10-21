@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ali Muhammad a.k.a Alison
-- 👀 I’m interested in WEB Development,App Development,Software Development,BlockChain,AI,Game Development
+- 👀 I’m interested in WEB Development,MobileApp Development,Software Development,BlockChain,AI,Game Development
 - 🌱 I’m currently learning Coding,Web Development,Game Development,Animation
 - 💞️ I’m looking to collaborate on Future projects related to website Development
 - 📫You Can Reach Me Through my Gmail:Junkfoodadventure@gmail.com...
